@@ -1,16 +1,24 @@
-## Hi there 👋
+```
+pedrodeivid@github:~$ touch pedrodeivid.txt
+pedrodeivid@github:~$ nano pedrodeivid.txt
+pedrodeivid@github:~$ cat pedrodeivid.txt
+┌──────────────────────────────────────────────────────────────┐
+│                     pedrodeivid@github                       │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  $ whoami                                                    │
+│  Estudante de Cibersegurança                                 │
+│                                                              │
+│  $ interests                                                 │
+│  OSINT · Investigação Digital · CTI · SOC/Blue Team          │
+│                                                              │
+│  $ hobbies                                                   │
+│  Design gráfico · Retrogaming · Leitura · Pesquisa           │
+│                                                              │
+│  $ contact                                                   │
+│  ├── Linkedin: linkedin.com/in/pedrodeivid                   │
+│  └── E-mail: pedro.deivid@proton.me                          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
-<!--
-**pedrodeivid/pedrodeivid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+pedrodeivid@github:~$ ▂
